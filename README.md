@@ -15,7 +15,7 @@ Clone this repo, open [Antigravity](https://antigravity.google), and build your 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Agent%20Platform-4285F4?logo=googlecloud&logoColor=white)
 ![Built with ADK](https://img.shields.io/badge/Built%20with-ADK%20%2B%20agents--cli-34A853)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
-![Projects](https://img.shields.io/badge/Projects-8-blue)
+![Projects](https://img.shields.io/badge/Projects-9-blue)
 
 <sub>📖 <a href="https://cszhu.github.io/build-with-gemini/">Lab Guide</a> · 🛠️ <a href="https://google.github.io/agents-cli/guide/getting-started/">agents-cli</a> · 🤖 <a href="https://google.github.io/adk-docs/">ADK</a></sub>
 
@@ -83,6 +83,7 @@ Bump the "Projects" badge count at the top when you add one.
 
 - ⛈️ **[SafeStageWX](https://github.com/felix1028/buildwithgemini-safestagewx)**: An agentic mobile app that helps event planners identify weather threats and climate risks for an event given its date and location, providing tailored preparedness timelines from months out down to hourly day-of forecasts. <br/> <sub>by [@felix1028](https://github.com/felix1028)</sub>
 - 🌇 **[Sidewalk & Sun](https://github.com/OlafHaalstra/buildwithgemini-sidewalk-and-sun)**: Recommends sunny or shaded NYC spots from a curated 500-venue corpus, plotted on an interactive map. <br/> <sub>by [@OlafHaalstra](https://github.com/OlafHaalstra)</sub>
+- 🧳 **[Smart Travel Concierge](https://github.com/Ayaj116/buildwithgemini-gcp-enterprise-model)**: A conversational travel agent that helps users plan personalized vacations with a catalog of destinations, activities, and real-time weather/flight lookups. <br/> <sub>by [@Ayaj116](https://github.com/Ayaj116)</sub>
 
 ### 💪 Health, Fitness & Wellness Agents
 
