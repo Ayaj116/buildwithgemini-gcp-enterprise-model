@@ -15,7 +15,7 @@ Clone this repo, open [Antigravity](https://antigravity.google), and build your 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Agent%20Platform-4285F4?logo=googlecloud&logoColor=white)
 ![Built with ADK](https://img.shields.io/badge/Built%20with-ADK%20%2B%20agents--cli-34A853)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
-![Projects](https://img.shields.io/badge/Projects-17-blue)
+![Projects](https://img.shields.io/badge/Projects-9-blue)
 
 <sub>📖 <a href="https://cszhu.github.io/build-with-gemini/">Lab Guide</a> · 🛠️ <a href="https://google.github.io/agents-cli/guide/getting-started/">agents-cli</a> · 🤖 <a href="https://google.github.io/adk-docs/">ADK</a></sub>
 
@@ -99,18 +99,10 @@ Bump the "Projects" badge count at the top when you add one.
 
 - 🔧 **[GitCraft](https://github.com/fpobletemu/buildwithgemini-gitcraft)**: A developer git assistant that inspects your repo and drafts Conventional-Commits-style messages, grounded in a commit-style guide. <br/> <sub>by [@fpobletemu](https://github.com/fpobletemu)</sub>
 - 🖥️ **[IT Helpdesk Agent](https://github.com/NaweedAhmadi/buildwithgemini-it-helpdesk-agent)**: An IT support assistant that answers from a knowledge base and remembers context across sessions, with a ticket dashboard UI. <br/> <sub>by [@NaweedAhmadi](https://github.com/NaweedAhmadi)</sub>
-- 💳 **[Product Credit Automation](https://github.com/Ayaj116/product-credit-automation)**: Production sequential multi-agent LLM pipeline built on Google ADK & Datadog for automated Salesforce credit-risk decisioning. <br/> <sub>by [@Ayaj116](https://github.com/Ayaj116)</sub>
-- 🏭 **[SIMAS Supplier Intelligence](https://github.com/Ayaj116/simas-supplier-intelligence)**: Multi-agent Neo4j knowledge-graph system evaluating and ranking supply-chain suppliers using CrewAI & Azure OpenAI GPT-4o. <br/> <sub>by [@Ayaj116](https://github.com/Ayaj116)</sub>
-- ⚡ **[GENIFY RAG Orchestration](https://github.com/Ayaj116/genify-orchestration)**: 4-stage chainable RAG pipeline supporting GPT-4o, Gemini 1.5, BERT, and Flan-T5 with Azure Blob SAS artifact passing. <br/> <sub>by [@Ayaj116](https://github.com/Ayaj116)</sub>
-- 📊 **[GENIFY Model Validation](https://github.com/Ayaj116/genify-validation)**: LLM evaluation suite supporting traditional & DeepEval metrics, model ranking, and academic benchmarks. <br/> <sub>by [@Ayaj116](https://github.com/Ayaj116)</sub>
-- 🛡️ **[GENIFY Responsible AI](https://github.com/Ayaj116/genify-responsible-ai)**: Multi-tier RAI guardrail service scoring hallucination, bias, toxicity, and profanity. <br/> <sub>by [@Ayaj116](https://github.com/Ayaj116)</sub>
-- 📉 **[GENIFY Drift Observation](https://github.com/Ayaj116/genify-drift-observation)**: Observability service detecting semantic, statistical, and behavioral drift in chatbot logs with visual analytics. <br/> <sub>by [@Ayaj116](https://github.com/Ayaj116)</sub>
-- 🎨 **[GENIFY Shiny UI](https://github.com/Ayaj116/genify-shiny-ui)**: Python Shiny front-end dashboard orchestrating RAG, validation, RAI guardrails, and drift analytics. <br/> <sub>by [@Ayaj116](https://github.com/Ayaj116)</sub>
 
 ### 🧪 Experimental & Other
 
 - 🃏 **[Poker Agent](https://github.com/jakecho1108/buildwithgemini-poker-agent)**: A poker trainer with a real 800-iteration Monte Carlo equity engine and strategy tips grounded in a poker playbook. <br/> <sub>by [@jakecho1108](https://github.com/jakecho1108)</sub>
-- 🐦 **[COVID Tweet Sentiment DistilBERT](https://github.com/Ayaj116/covid-tweet-sentiment-distilbert)**: Fine-tuned DistilBERT sentiment classifier paired with ChromaDB vector store for semantic tweet retrieval. <br/> <sub>by [@Ayaj116](https://github.com/Ayaj116)</sub>
 
 ---
 
